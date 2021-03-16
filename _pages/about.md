@@ -8,8 +8,14 @@ redirect_from:
   - /about.html
 ---
 
+-Bio
+-======
+He is a final-year PhD student in ILCC, School of Informatics, The University of Edinburgh.
+
+His research interests are natural langauge processing and deep learning. He is working on semantic paring and text generation advised by Shay Cohen and Mirella Lapata. During the PhD study, he worked with Matt Gardener on document comprehension QA as an intern in AI2. Before his PhD study, He was a research assistant in SUTD, working with <a href="https://frcchang.github.io">Yue Zhang</a> on syntactic parsing. He obtained the MSc degree on statistical machine translation in Beijing Jiaotong University advised by JinAn Xu.
 
 -News
+-======
 
 *10/03/2021: One paper is accepted by CL, and one paper is accepted by NAACL 2021
 *21/09/2020: Intern in Google Research.
