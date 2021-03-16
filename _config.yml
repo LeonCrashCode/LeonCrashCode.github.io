@@ -85,7 +85,7 @@ author:
   bio              : "My research interests are natural langauge processing and deep learning, including structures prediction, semantic parsing, text generation, and various machine learning frameworks."
   location         : "Edinburgh, UK"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=8kOZVRsAAAAJ&hl=en"
   email            : "jmliunlp@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Jiangming-Liu"
