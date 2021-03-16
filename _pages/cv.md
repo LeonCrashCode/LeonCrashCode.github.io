@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Informatics, University of Edinburgh. 2021 (expected)
-* M.S. in Computer Science, Beijing Jiaotong University, 2015
-* B.S. in Computer Science, Beijing Jiaotong University, 2012
+* M.S. in Computer Science, Beijing Jiaotong University. 2015
+* B.S. in Computer Science, Beijing Jiaotong University. 2012
 
 Work experience
 ======

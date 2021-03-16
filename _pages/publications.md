@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
@@ -19,8 +19,8 @@ In <em>Proceedings of the Annual Conference of the North American Chapter of the
 <strong>Jiangming Liu</strong>, Shay B. Cohen, Mirella Lapata, Johan Bos. <br/>
 In <em>Computational Linguistics (CL)</em>. 2021.
 
-* <a href="https://www.aclweb.org/anthology/2020.acl-main.416.pdf"><b>Dscorer: A Fast Evaluation Metric for Discourse Representation Structure Parsing</b></a> </br>
-<strong>Jiangming Liu</strong>, Shay B. Cohen, Mirella Lapata. <a href="https://www.aclweb.org/anthology/2020.acl-main.416.bib">[bib]</a> <a href="https://github.com/LeonCrashCode/DRSScorer">[code]</a> </br>
+* <a href="https://www.aclweb.org/anthology/2020.acl-main.416.pdf"><b>Dscorer: A Fast Evaluation Metric for Discourse Representation Structure Parsing</b></a> <br/>
+<strong>Jiangming Liu</strong>, Shay B. Cohen, Mirella Lapata. <a href="https://www.aclweb.org/anthology/2020.acl-main.416.bib">[bib]</a> <a href="https://github.com/LeonCrashCode/DRSScorer">[code]</a> <br/>
 In <em>Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)</em>. 2020.
 	
 * <a href="https://www.aclweb.org/anthology/2020.acl-main.416.pdf"><b>DRTS Parsing with Structure-Aware Encoding and Decoding</b></a> <br/>
