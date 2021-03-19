@@ -78,7 +78,7 @@ Document Comprehension
 In <em>Proceedings of the conference on Empirical Methods in Natural Language Processing (EMNLP)</em>. 2020.
 
 * <a href="https://www.aclweb.org/anthology/2020.findings-emnlp.117/"><b>Evaluating Models' Local Decision Boundaries via Contrast Sets</b></a> <br/>
-Matt Gardner, Yoav Artzi, Victoria Basmov, Jonathan Berant, Ben Bogin, Sihao Chen, Pradeep Dasigi, Dheeru Dua, Yanai Elazar, Ananth Gottumukkala, Nitish Gupta, Hannaneh Hajishirzi, Gabriel Ilharco, Daniel Khashabi, Kevin Lin, Jiangming Liu, Nelson F. Liu, Phoebe Mulcaire, Qiang Ning, Sameer Singh, Noah A. Smith, Sanjay Subramanian, Reut Tsarfaty, Eric Wallace, Ally Zhang, Ben Zhou. <a href="https://www.aclweb.org/anthology/2020.findings-emnlp.117.bib">[bib]</a> <br/>
+Matt Gardner, Yoav Artzi, Victoria Basmov, Jonathan Berant, Ben Bogin, Sihao Chen, Pradeep Dasigi, Dheeru Dua, Yanai Elazar, Ananth Gottumukkala, Nitish Gupta, Hannaneh Hajishirzi, Gabriel Ilharco, Daniel Khashabi, Kevin Lin, <strong> Jiangming Liu </strong>, Nelson F. Liu, Phoebe Mulcaire, Qiang Ning, Sameer Singh, Noah A. Smith, Sanjay Subramanian, Reut Tsarfaty, Eric Wallace, Ally Zhang, Ben Zhou. <a href="https://www.aclweb.org/anthology/2020.findings-emnlp.117.bib">[bib]</a> <br/>
 In <em>Proceedings of the conference on Empirical Methods in Natural Language Processing (EMNLP)</em>. 2020.
 
 Others
