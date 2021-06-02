@@ -27,5 +27,5 @@ Work experience
 
 * 2015-2017: Research Assistant
   * Singapore University of Technology and Design
-  * Duties included: Syntactic parsing
+  * Syntactic analysis
 
