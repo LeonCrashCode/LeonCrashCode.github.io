@@ -24,6 +24,7 @@ Work experience
 
 * Fall 2019: Intern
   * AllenNLP, AI2
+  * Document Comprehension Question Answering
 
 * 2015-2017: Research Assistant
   * Singapore University of Technology and Design
