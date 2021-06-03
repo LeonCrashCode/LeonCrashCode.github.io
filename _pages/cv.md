@@ -34,4 +34,4 @@ Academic activities
 ======
 
 * Co-Chair: SRW in ACL 2020
-* Programm Committee Member of most major conference (e.g., ACL, NAACL, EACL, EMNLP, COLING, IJCAI, AAAI) and journals (e.g., CL, ACM TALLIP, IEEE TBD, IS).
+* Programm Committee Member of most major conference (e.g., ACL, NAACL, EACL, EMNLP, COLING, IJCAI, AAAI) and journals (e.g., CL, ACM TALLIP, IEEE TBD, Information Science, ISA Transactions).
