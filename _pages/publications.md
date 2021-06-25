@@ -11,11 +11,11 @@ Semantics
 =====
 
 
-* <b>Text Generation from Discourse Representation Structures</b> <br/>
-<strong>Jiangming Liu</strong>, Shay B. Cohen, Mirella Lapata.  <br/>
+* <a href="https://www.aclweb.org/anthology/2021.naacl-main.35.pdf"><b>Text Generation from Discourse Representation Structures</b></a> <br/>
+<strong>Jiangming Liu</strong>, Shay B. Cohen, Mirella Lapata.  <br/> <a href="https://www.aclweb.org/anthology/2021.naacl-main.35.bib">[bib]</a> <a href="https://github.com/LeonCrashCode/Discourse-Representation-Tree-Structure/tree/main/gmb/DRS-to-text">[code]</a> 
 In <em>Proceedings of the Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT)</em>. 2021.
 
-* <b>Universal Discourse Representation Structure Parsing</b> <br/>
+* <a href="https://direct.mit.edu/coli/article/doi/10.1162/coli_a_00406/98515/Universal-Discourse-Representation-Structure"> <b>Universal Discourse Representation Structure Parsing</b></a> <br/> 
 <strong>Jiangming Liu</strong>, Shay B. Cohen, Mirella Lapata, Johan Bos. <br/>
 In <em>Computational Linguistics (CL)</em>. 2021.
 
