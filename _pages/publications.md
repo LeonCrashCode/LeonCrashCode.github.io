@@ -23,7 +23,7 @@ In <em>Computational Linguistics (CL)</em>. 2021.
 <strong>Jiangming Liu</strong>, Shay B. Cohen, Mirella Lapata. <a href="https://www.aclweb.org/anthology/2020.acl-main.416.bib">[bib]</a> <a href="https://github.com/LeonCrashCode/DRSScorer">[code]</a> <br/>
 In <em>Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)</em>. 2020.
 	
-* <a href="https://www.aclweb.org/anthology/2020.acl-main.416.pdf"><b>DRTS Parsing with Structure-Aware Encoding and Decoding</b></a> <br/>
+* <a href="https://www.aclweb.org/anthology/2020.acl-main.609.pdf"><b>DRTS Parsing with Structure-Aware Encoding and Decoding</b></a> <br/>
 Qiankun Fu, Yue Zhang, <strong>Jiangming Liu</strong>, Meishan Zhang. <a href="https://www.aclweb.org/anthology/2020.acl-main.609.bib">[bib]</a><br/>
 In <em>Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)</em>. 2020.
 
