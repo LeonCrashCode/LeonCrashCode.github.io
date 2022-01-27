@@ -18,6 +18,9 @@ Education
 Work experience
 ======
 
+* 2021 - now: Applied Researcher
+  * Tencent
+
 * Winter 2020: Intern
   * Google Research
   * Pre-trained model on long-document summarization
