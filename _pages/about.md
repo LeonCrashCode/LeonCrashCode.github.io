@@ -16,7 +16,7 @@ News
 ======
 
 * 20/06/2022: serve as area chair in Coling 2022
-* 20/06/2022: 1 paper is accepted by International Workshop on Trustworthy Federated Learning, IJCAI 2022
+* 20/06/2022: 1 paper is accepted by FL-IJCAI 2022
 * 15/09/2021: move to Shenzhen, Tencent.
 * 10/03/2021: 1 paper is accepted by CL, and 1 paper is accepted by NAACL 2021
 * 21/09/2020: intern in Google Research.
