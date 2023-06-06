@@ -18,5 +18,8 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "Student(中文)"
+    url: /student/
+    
   #- title: "Guide"
   #  url: /markdown/
