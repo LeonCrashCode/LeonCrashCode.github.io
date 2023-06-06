@@ -14,15 +14,17 @@ His research interests are computational linguistics, natural langauge processin
 
 News
 ======
-
-* 20/06/2022: serve as area chair in Coling 2022
-* 20/06/2022: 1 paper is accepted by FL-IJCAI 2022
-* 15/09/2021: move to Shenzhen, Tencent.
-* 10/03/2021: 1 paper is accepted by CL, and 1 paper is accepted by NAACL 2021
-* 21/09/2020: intern in Google Research.
-* 15/09/2020: 2 papers are accepted in EMNLP 2020.
-* 06/07/2020: 2 papers are accepted in ACL 2020.
-* 19/08/2019: intern in Allen Institute for Artificial Intelligence
-* 02/06/2019: serve as student research workshop chair in ACL 2020.
-* 16/05/2019: the best DRS parsing system in DRS parsing shared tasks, IWCS 2019.
-* 14/05/2019: 1 paper is accepted in ACL 2019.
+* 2023/06/02: invited talk in Yunnan University
+* 2023/04/26: invited talk in CCF-NLP, Suzhou University
+* 2023/02/15: move to Yunnan University
+* 2022/06/20: serve as area chair in Coling 2022
+* 2022/06/20: 1 paper is accepted by FL-IJCAI 2022
+* 2022/09/15: move to Shenzhen, Tencent.
+* 2022/03/10: 1 paper is accepted by CL, and 1 paper is accepted by NAACL 2021
+* 2020/09/21: intern in Google Research.
+* 2020/09/15: 2 papers are accepted in EMNLP 2020.
+* 2020/07/06: 2 papers are accepted in ACL 2020.
+* 2019/08/19: intern in Allen Institute for Artificial Intelligence
+* 2019/06/02: serve as student research workshop chair in ACL 2020.
+* 2019/05/16: the best DRS parsing system in DRS parsing shared tasks, IWCS 2019.
+* 2019/05/14: 1 paper is accepted in ACL 2019.
