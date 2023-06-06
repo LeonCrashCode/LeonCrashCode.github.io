@@ -1,11 +1,10 @@
 ---
-permalink: archive
+layout: archive
 title: ""
-excerpt: "student"
+permalink: /student/
 author_profile: true
-redirect_from: 
-  - /group/
-  - /group_zh.html
+redirect_from:
+  - /group
 ---
 # 写给希望到本组读研的同学
 
