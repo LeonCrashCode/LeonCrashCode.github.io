@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: archive
 title: ""
 excerpt: "student"
 author_profile: true
