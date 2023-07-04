@@ -96,3 +96,17 @@ redirect_from:
 ### 4，硕士实习要求
 
 在满足毕业条件并且不影响毕业论文写作的前提下，提前通知导师，鼓励任何时候实习。
+
+## 预备知识参考材料
+
+Deep Learning, Ian Goodfellow and Yoshua Bengio and Aaron Courville. [Link](https://www.deeplearningbook.org/)
+
+Natural Language Processing, Chris Manning. [Link](https://web.stanford.edu/class/cs224n/)
+
+Large Language Modeling, Percy Liang. [Link](https://stanford-cs324.github.io/winter2022/)
+
+机器学习，周志华。[Link](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/MLbook2016.htm)
+
+李宏毅老师的系列课程。[Link](https://speech.ee.ntu.edu.tw/~tlkagk/talk.html)
+
+张岳老师的自然语言处理在线课程。[Link](https://www.bilibili.com/video/BV1r3411q74d/)
