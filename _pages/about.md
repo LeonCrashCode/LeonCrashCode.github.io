@@ -10,7 +10,7 @@ redirect_from:
 
 Bio
 ======
-His research interests are computational linguistics, natural langauge processing and deep learning. He is working as applied researcher in Tencent. Before that, he received PhD in University of Edinburgh and was working on semantic paring and text generation advised by <a href="http://homepages.inf.ed.ac.uk/scohen/">Shay Cohen</a> and <a href="http://homepages.inf.ed.ac.uk/mlap/">Mirella Lapata</a>. Also, he worked with <a href="https://matt-gardner.github.io">Matt Gardener</a> on document comprehension QA as an intern in AI2. Before his PhD study, He was a research assistant in SUTD, working with <a href="https://frcchang.github.io">Yue Zhang</a> on syntactic parsing. He obtained the MSc degree on statistical machine translation in Beijing Jiaotong University advised by JinAn Xu.
+His research interests are computational linguistics, natural langauge processing and deep learning. He received PhD in University of Edinburgh (working on semantic paring and text generation) advised by <a href="http://homepages.inf.ed.ac.uk/scohen/">Shay Cohen</a> and <a href="http://homepages.inf.ed.ac.uk/mlap/">Mirella Lapata</a>. Also, he worked with <a href="https://matt-gardner.github.io">Matt Gardener</a> on document comprehension QA as an intern in AI2. Before his PhD study, He was a research assistant in SUTD, working with <a href="https://frcchang.github.io">Yue Zhang</a> focusing on syntactic parsing. He obtained the MSc degree on statistical machine translation in Beijing Jiaotong University advised by JinAn Xu.
 
 News
 ======
