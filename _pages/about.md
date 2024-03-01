@@ -10,10 +10,16 @@ redirect_from:
 
 Bio
 ======
-His research interests are computational linguistics, natural langauge processing and deep learning. He received PhD in University of Edinburgh (working on semantic paring and text generation) advised by <a href="http://homepages.inf.ed.ac.uk/scohen/">Shay Cohen</a> and <a href="http://homepages.inf.ed.ac.uk/mlap/">Mirella Lapata</a>. Also, he worked with <a href="https://matt-gardner.github.io">Matt Gardener</a> on document comprehension QA as an intern in AI2. Before his PhD study, He was a research assistant in SUTD, working with <a href="https://frcchang.github.io">Yue Zhang</a> focusing on syntactic parsing. He obtained the MSc degree on statistical machine translation in Beijing Jiaotong University advised by JinAn Xu.
+I am an associate professor at School of Information Science and Engineering, Yunnan University. Before joining Yunnan University, I worked as Senior Applied Scientist at <a href="https://www.tencent.com/en-us/">Tencent</a> from Sep. 2021 to Jan. 2023. I received my Ph.D. degree from <a href="https://www.ed.ac.uk/">University of Edinburgh, UK</a> in May 2021, working on semantic parsing and text generation (<a href="https://era.ed.ac.uk/handle/1842/37936">Ph.D. thesis</a>). I interned at <a href="https://research.google/"> Google Research </a> and <a href="https://allenai.org/"> Allen Institute for AI (AI2)</a> during my PhD study. Before starting my Ph.D. study, I worked as research assistant at <a href="https://www.sutd.edu.sg/">Singapore University of Technology and Design (SUTD), Singapore</a> on syntactic parsing from Apr. 2015 to Aug. 2017. I received my M.Sc. degree and B.Sc. degree from <a href="https://www.bjtu.edu.cn/">Beijing Jiaotong University, China</a> in June 2008 and March 2012, respectively, working on statistical machine translation between Japanese and Chinese. My research interests include computational linguistics, natural language processing and deep learning.
 
 News
 ======
+* 2024/02/27: 1 paper is accepted by CVPR 2024
+* 2024/02/20: 2 papers are accepted by LREC-COLING 2024
+* 2023/10/27: invited talk in School of Cyberspace Security, Beijing University of Posts and Telecommunications (BUPT)
+* 2023/10/26: invited talk in Wangxuan Institute of Computer Technology, Peking University
+* 2023/10/06: 1 paper is accepted by EMNLP 2023, awarding outstanding paper
+* 2023/09/14: co-organizing CCF-NLP Academic Forums and Seminars, Yunnan University
 * 2023/06/02: invited talk in Yunnan University
 * 2023/04/26: invited talk in CCF-NLP, Suzhou University
 * 2023/02/15: move to Yunnan University
