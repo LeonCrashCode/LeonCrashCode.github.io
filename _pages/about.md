@@ -18,6 +18,7 @@ My research interests include computational linguistics, natural language proces
 
 News
 ======
+* 2024/05/17: 1 paper is accpeted by KDD 2024
 * 2024/02/27: 1 paper is accepted by CVPR 2024
 * 2024/02/20: 2 papers are accepted by LREC-COLING 2024
 * 2023/10/27: invited talk in School of Cyberspace Security, Beijing University of Posts and Telecommunications (BUPT)
