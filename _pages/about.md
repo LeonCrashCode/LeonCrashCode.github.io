@@ -18,18 +18,18 @@ My research interests include computational linguistics, natural language proces
 
 News
 ======
-* 2024/05/17: 1 paper is accpeted by KDD 2024
-* 2024/02/27: 1 paper is accepted by CVPR 2024
-* 2024/02/20: 2 papers are accepted by LREC-COLING 2024
+* 2024/05/17: the paper Controllable Multi-Behavior Recommendation for In-Game Skins with Large Sequential Model, is accpeted by KDD-ADS 2024, Co. with Tencent.
+* 2024/02/27: the paper <a href="https://arxiv.org/abs/2405.00181"> Uncovering What, Why and How: A Comprehensive Benchmark for Causation Understanding of Video Anomalyis</a>, is accepted by CVPR 2024, Co. with BUPT.
+* 2024/02/20: the papers Model-Agnostic Cross-Lingual Training for Discourse Representation Structure Parsing and Soft Well-Formed Semantic Parsing with Score-Based Selection, are accepted by LREC-COLING 2024.
 * 2023/10/27: invited talk in School of Cyberspace Security, Beijing University of Posts and Telecommunications (BUPT)
 * 2023/10/26: invited talk in Wangxuan Institute of Computer Technology, Peking University
-* 2023/10/06: 1 paper is accepted by EMNLP 2023, awarding outstanding paper
+* 2023/10/06: the paper <a href="https://aclanthology.org/2023.emnlp-main.529/"> FedID: Federated Interactive Distillation for Large-Scale Pretraining Language Models </a>, is accepted by EMNLP 2023, awarding outstanding paper.
 * 2023/09/14: co-organizing CCF-NLP Academic Forums and Seminars, Yunnan University
 * 2023/06/02: invited talk in Yunnan University
 * 2023/04/26: invited talk in CCF-NLP, Suzhou University
 * 2023/02/15: move to Yunnan University
-* 2022/06/20: serve as area chair in Coling 2022
-* 2022/06/20: 1 paper is accepted by FL-IJCAI 2022
+<!-- * 2022/06/20: serve as area chair in Coling 2022
+* 2022/06/20: the paper is accepted by FL-IJCAI 2022
 * 2022/09/15: move to Shenzhen, Tencent.
 * 2022/03/10: 1 paper is accepted by CL, and 1 paper is accepted by NAACL 2021
 * 2020/09/21: intern in Google Research.
@@ -38,4 +38,4 @@ News
 * 2019/08/19: intern in Allen Institute for Artificial Intelligence
 * 2019/06/02: serve as student research workshop chair in ACL 2020.
 * 2019/05/16: the best DRS parsing system in DRS parsing shared tasks, IWCS 2019.
-* 2019/05/14: 1 paper is accepted in ACL 2019.
+* 2019/05/14: 1 paper is accepted in ACL 2019. -->
