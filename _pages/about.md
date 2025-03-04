@@ -18,6 +18,7 @@ My research interests include computational linguistics, natural language proces
 
 News
 ======
+* 2025/01/20: the paper FMD-Mllama at the Financial Misinformation Detection Challenge Task: Multimodal Reasoning and Evidence Generation, is accpeted by FinNLP in Coling 2025m. The system ranks second on the task leaderboard of Financial Misinformation Detection Challenge.
 * 2024/05/17: the paper Controllable Multi-Behavior Recommendation for In-Game Skins with Large Sequential Model, is accpeted by KDD-ADS 2024, Co. with Tencent.
 * 2024/02/27: the paper <a href="https://arxiv.org/abs/2405.00181"> Uncovering What, Why and How: A Comprehensive Benchmark for Causation Understanding of Video Anomalyis</a>, is accepted by CVPR 2024, Co. with BUPT.
 * 2024/02/20: the papers Model-Agnostic Cross-Lingual Training for Discourse Representation Structure Parsing and Soft Well-Formed Semantic Parsing with Score-Based Selection, are accepted by LREC-COLING 2024.
