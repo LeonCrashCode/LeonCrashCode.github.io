@@ -14,6 +14,7 @@ I am an associate professor at School of Information Science and Engineering, Yu
 
 <a href="/CV_details.pdf"> [CV] </a>
 
+<!--
 Research Interests
 ======
 My research interests include computational linguistics, natural language processing and deep learning. I serve as reviewer for journals such as Computational Linguistics, ACM Transactions on Asian and Low Resource Language Information Processing, IEEE Transactions on Big Data, Information Science, ISA Transactions. I am also PC member for conferences such as AAAI, IJCAI, ACL, NAACL, EACL, EMNLP and COLING. I am a co-chair of the student research workshop in ACL (2020), and the area chairs of COLING (2022).
@@ -31,7 +32,7 @@ News
 * 2023/06/02: invited talk in Yunnan University
 * 2023/04/26: invited talk in CCF-NLP, Suzhou University
 * 2023/02/15: move to Yunnan University
-<!-- * 2022/06/20: serve as area chair in Coling 2022
+* 2022/06/20: serve as area chair in Coling 2022
 * 2022/06/20: the paper is accepted by FL-IJCAI 2022
 * 2022/09/15: move to Shenzhen, Tencent.
 * 2022/03/10: 1 paper is accepted by CL, and 1 paper is accepted by NAACL 2021
