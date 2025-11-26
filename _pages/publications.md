@@ -15,7 +15,7 @@ Selected Papers
 </a> <br/>
 Yulin Dou, <strong>Jiangming Liu</strong>\*.<br/>
 In <em>Proceedings of AAAI</em>. 2025. 
-<!-- In <em>Proceedings of the AAAI Conference on Artificial Intelligence </em>. 2025. -->
+<!-- In <em>Proceedings of the AAAI Conference on Artificial Intelligence </em>. 2026. -->
 
 * <a href="https://arxiv.org/abs/2510.15412">Large-scale User Game Lifecycle Representation Learning
 </a> <br/>
