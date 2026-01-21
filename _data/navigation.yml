@@ -18,8 +18,11 @@ main:
   #- title: "CV"
   #  url: /cv/
     
-  - title: "Student(中文)"
+  - title: "Prospective Student (中文)"
     url: /student/
+    
+  - title: "LangNexus Group"
+    url: /langnexus/
     
   #- title: "Guide"
   #  url: /markdown/
