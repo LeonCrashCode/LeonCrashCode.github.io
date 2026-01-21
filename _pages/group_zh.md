@@ -3,8 +3,6 @@ layout: archive
 title: ""
 permalink: /student/
 author_profile: true
-redirect_from:
-  - /group
 ---
 # 写给希望到本组读研的同学（更新于2025年09月08日）
 
