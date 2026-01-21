@@ -3,6 +3,8 @@ layout: archive
 title: ""
 permalink: /langnexus/
 author_profile: false
-redirect_from:
-  - /group
 ---
+
+Wechat Code:
+
+<img src="/images/langnexus.jpg" width="10%">
