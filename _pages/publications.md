@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-The list of full papers can be found on my <a href="https://scholar.google.com/citations?user=8kOZVRsAAAAJ&hl=en"> Google Scholar profile</a>.
+The list of full papers can be found on my <a href="/CV_details.pdf"> [CV] </a> and <a href="https://scholar.google.com/citations?user=8kOZVRsAAAAJ&hl=en"> Google Scholar profile</a>.
 
 
 Selected Papers
